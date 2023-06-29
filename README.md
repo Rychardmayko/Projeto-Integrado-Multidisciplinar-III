@@ -91,7 +91,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Esse projeto está sob a licença MIT.
 
 ## 🤵 Sobre mim
-<h1>Vinicius Fernandes Umbelino dos Santos</h1>
+<h1>Rychard Mayko Rosado de Araujo</h1>
 <strong>Student Developer ⓒ 2023</strong>
 <br/>
 <br/>
