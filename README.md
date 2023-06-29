@@ -96,19 +96,19 @@ Esse projeto está sob a licença MIT.
 <br/>
 <br/>
 
-<a href="https://www.linkedin.com/in/vinicius-fernandes-432584aa/" target="_blank" rel="external">
+<a href="https://www.linkedin.com/in/rychardmayko/" target="_blank" rel="external">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/vinicinfernandes" target="_blank" rel="external">
+<a href="https://github.com/rychardmayko" target="_blank" rel="external">
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:viniciusub540@gmail.com" target="_blank" rel="external">
+<a href="mailto:educador.rychard0@gmail.com" target="_blank" rel="external">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://wa.me/5511993961235?text=Ol%C3%A1%21" target="_blank" rel="external">
+<a href="https://wa.me/5511988885719text=Ol%C3%A1%21" target="_blank" rel="external">
 <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
