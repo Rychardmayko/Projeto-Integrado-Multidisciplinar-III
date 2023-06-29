@@ -108,7 +108,7 @@ Esse projeto está sob a licença MIT.
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://wa.me/5511988885719text=Ol%C3%A1%21" target="_blank" rel="external">
+<a href="https://api.whatsapp.com/send/?phone=5511988885719&text=Ol%C3%A1%21&type=phone_number&app_absent=0l%C3%A1%21" target="_blank" rel="external">
 <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
