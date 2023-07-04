@@ -1,9 +1,9 @@
 # Projeto-Integrado-Multidisciplinar-III
-O Projeto Integrado Multidisciplinar se baseia em uma arquitetura de software, codificação e um sistema de gerenciamento de banco de dados para o desenvolvimento de um software de Recursos Humanos. A empresa busca criar uma solução robusta e abrangente, capaz de atender às necessidades dos clientes no gerenciamento eficiente de suas áreas de RH.
+O Projeto Integrado Multidisciplinar se baseia em uma arquitetura de software, design de interfaces e um sistema de gerenciamento de banco de dados para o desenvolvimento de um software de Recursos Humanos. A empresa busca criar uma solução robusta e abrangente, capaz de atender às necessidades dos clientes no gerenciamento eficiente de suas áreas de RH.
 
 <h1 align="center"> Protótipo de Software de Gerenciamento de Recursos Humanos </h1>
 <p align="center">
-  <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/unip.png?raw=true" alt="Logo UNIP" width="85%"/>
+  <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/IMGS/UNIP2.png" alt="Logo UNIP" width="80%"/>
 </p>
 <h2 align="center">
 Análise e Desenvolvimento de Sistemas - PIM
@@ -14,7 +14,7 @@ Análise e Desenvolvimento de Sistemas - PIM
   <a href="#memo-O-Projeto">O Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Nota">Nota</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Objetivos-alcaçados">Objetivos alcaçados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Tecnologia">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Desenvolvedores">Desenvolvedores</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
@@ -43,7 +43,7 @@ Matérias abordadas:
 
 <br/>
 <p align="center">
-  <img src="https://github.com/marlonakio/PIM_II_ADS_UNIP/blob/main/.github/PIM-UNIP.pptx.png?raw=true" alt="UNIP - PROJETO INTEGRADO MULTIDISCIPLINAR" width="50%"/>
+  <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/IMGS/unip.png" alt="Logo UNIP" width="80%"/>
 <br>
 
 ## :memo: O Projeto
@@ -55,7 +55,7 @@ Optamos por desenvolver um protótipo funcional de alta fidelidade para o gerenc
 ## 🟢 Nota
 A nota alcançada ao concluirmos e apresentarmos este projeto foi `10`.
 <p align="center">
-  <img src="https://github.com/marlonakio/PIM_II_ADS_UNIP/blob/main/.github/nota.png?raw=true" alt="NOTA 10" width="100%"/>
+  <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/IMGS/notas%20pim.png" alt="NOTA 10" width="100%"/>
 
 ## 🎯 Objetivos alcaçados
 Ao realizar este projeto adquirimos e aprimoramos as seguintes skills:
@@ -72,14 +72,15 @@ envolvendo múltiplas disciplinas.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Figma;
-- Astah UML;
 - Photoshop;
-- MySQL.
+- MySQL;
+- Astah UML;
+- SQL Server.
 
   
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,mysql)](https://skillicons.dev) <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/IMGS/astah.png" alt="astah" width="6%"/> <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/IMGS/sqlserver.png" alt="astah" width="6%"/> 
 
-## 👨‍🎓👨‍🎓👨‍🎓 Desenvolvedores
+## 👨‍🎓👨‍🎓👨‍🎓👨‍🎓 Desenvolvedores
 - [Fellipe De Azevedo E Vasconcelos](https://github.com/Fellipe-Vasconcelos)
 - Mariana Silva Shirasaka 
 - [Rychard Mayko Rosado De Araujo](https://github.com/rychardmayko)
